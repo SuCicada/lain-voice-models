@@ -22,7 +22,8 @@ Now, I will tell you how to run Lain Voice on Windows.
   - models/
   - lain-voice.bat
 9. now, You just need double click the `lain-voice.bat`.
-10. the console will open, wait the program init over, the console will display a url like "http://127.0.0.1:7860",  open it on your browser.
+10. the console will open, wait the program init over, it will automatically open new tab on the default browser.  
+    if it not, the console will display a url like "http://127.0.0.1:7860",  open it on your browser.
 11. over, enjoy it.
 
 
