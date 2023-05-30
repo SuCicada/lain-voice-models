@@ -9,13 +9,13 @@ Now, I will tell you how to run Lain Voice on Windows.
 
 
 1. make a empty dir, give it a name what you like.
-1. download [venv.zip]() on the dir. ( it is the python runtime. don't worry, you don't need python skill.)
+1. download [venv.zip](https://drive.google.com/file/d/1oYZZ6ac8g0LdrVHwsZ-KXINqMkSp_xX4/view?usp=sharing) on the dir. ( it is the python runtime. don't worry, you don't need python skill.)
 2. unzip the `venv.zip` 
 3. download [so-vits-svc-4.0.zip](https://github.com/SuCicada/so-vits-svc/archive/refs/heads/4.0.zip) and put on same dir. (it is source code)
 4. unzip the `so-vits-svc-4.0.zip`
-5. download [models.zip]() on the dir. (it is models files)
+5. download [models.zip](https://drive.google.com/file/d/1F9oRDJpWMQWiPZHTnSDfUbN3fdriohzQ/view?usp=sharing) on the dir. (it is models files)
 6. unzip the `models.zip`
-7. download [lain-voice.bat]() on the dir. (it is the starting program for running Lain)
+7. download [lain-voice.bat](https://raw.githubusercontent.com/SuCicada/lain-voice-models/master/lain-voice.bat) on the dir. (it is the starting program for running Lain)
 8. now, your dir has 4 parts.
   - venv/
   - so-vits-svc-4.0/
