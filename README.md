@@ -29,5 +29,5 @@ Now, I will tell you how to run Lain Voice on Windows.
 
 Sorry, it might be a little cumbersome, I didn't do the script, sorry 
 
-I am tired, if you have any question. You can bravely give me issues, don‘t afried. 
+I am a little tired now, if you have any question. You can bravely give me issues, don‘t afried. 
 I am kind, give me issues if you want to new functions.
