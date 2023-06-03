@@ -13,7 +13,7 @@ set VENV_PATH=%current_dir%\venv
 set "PYTHON_HOME=%VENV_PATH%\python"
 set "PATH=%PYTHON_HOME%;%PATH%"
 
-set "PATH=%VENV%/bin;%PATH%"
+set "PATH=%VENV_PATH%/bin;%PATH%"
 
 echo starting, please wait ...
 
